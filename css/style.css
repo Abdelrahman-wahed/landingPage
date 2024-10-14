@@ -1,0 +1,14 @@
+.navbar-collapse {
+    flex-grow:0;
+}
+.btn-start{
+background-color:#FF5722;
+color:#fff;
+}
+.btn-start:hover{
+    border:2px solid #FF5722;
+    color:#FF5722;
+    }
+.footer{
+background-color:#FF5722;
+}
